@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.randomcubething.cexample"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Clicky Stars</name>
+
+  <description>
+      This Is A test Game...Don't take it Seriously, lol.
+  </description>
+
+  <author href="https://build.phonegap.com" email="fernandesaidan20@gmail.com">
+      Cubic Knight
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
